@@ -1,4 +1,4 @@
-💬 **A little about myself:
+💬 **A little about myself:**
 
 🎓 I am Chemical Engineer PhD, so you will probably see some projects involving applications in this area.
 
@@ -12,7 +12,7 @@
 
 
 
-📑 **Interests:
+📑 **Interests:**
 
 Project themes (Financial  Market, Chemical Engineering)
 
