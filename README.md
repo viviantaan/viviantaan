@@ -8,7 +8,4 @@
 
 😆 I am a very curious person, so I like to learn about many things.
 
----
-viviantaan/viviantaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
