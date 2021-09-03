@@ -1,3 +1,5 @@
+💬 A little about myself:
+
 🎓 I am Chemical Engineer PhD, so you will probably see some projects involving applications in this area.
 
 💡 I started to become interested in this area of Data Science in March 2021, and since then I have been constantly developing my technical skills.
@@ -9,3 +11,16 @@
 😆 I am a very curious person, so I like to learn about many things.
 
 
+📑 Interests:
+
+Project themes (Financial  Market, Chemical Engineering)
+
+Python
+
+Machine Learning
+
+Big Data
+
+SQL
+
+Artificial intelligence
